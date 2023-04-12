@@ -5,7 +5,7 @@
 </a>
 <br />
 
-Hi I'm Jyotiprakash Pani, a pre-final year undergrad from [Silicon Institute Of Technology ,Bhubaneswar](https://www.silicon.ac.in/) .I am passionate about Electronics and have some good knowledge in Digital and analog design and also in Verilog etc.
+Hi I'm Jyotiprakash Pani, a pre-final year undergrad from [Silicon Institute Of Technology ,Bhubaneswar](https://www.silicon.ac.in/) .I am passionate about Electronics and have some good knowledge in Digital and analog design, Verilog etc.
 
 I am looking for internships in field of Digital and Analog VLSI design.
 <!--
