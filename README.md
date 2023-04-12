@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/jyotiprakash-pani-953353206">
+  <img align="left" alt="Jyotiprakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+
+Hi I'm Jyotiprakash Pani, a pre-final year undergrad from [Silicon Institute Of Technology ,Bhubaneswar](https://www.silicon.ac.in/) .I am passionate about Electronics and have some good knowledge in Digital and analog design and also in Verilog etc.
+
+I am looking for internships in field of Digital and Analog VLSI design.
 <!--
 **JYOTIPRAKASHPANI/JyotiprakashPani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
